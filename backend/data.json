@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Phoebe in Wonderland",
+    "release": 1999,
+    "genre": "Drama|Fantasy"
+  },
+  {
+    "id": 2,
+    "name": "Wreck-It Ralph",
+    "release": 2010,
+    "genre": "Animation|Comedy"
+  },
+  {
+    "id": 3,
+    "name": "Lovely to Look At",
+    "release": 1993,
+    "genre": "Comedy|Musical|Romance"
+  },
+  {
+    "id": 4,
+    "name": "Everything About Mustafa (Mustafa hakkinda hersey)",
+    "release": 2004,
+    "genre": "Drama|Thriller"
+  },
+  {
+    "id": 5,
+    "name": "Painted Skin",
+    "release": 2005,
+    "genre": "Action|Drama|Thriller"
+  },
+  {
+    "id": 6,
+    "name": "Headquarters (Päämaja) ",
+    "release": 2005,
+    "genre": "Drama|War"
+  },
+  {
+    "id": 7,
+    "name": "Chainsaw Maid",
+    "release": 2006,
+    "genre": "Animation"
+  },
+  {
+    "id": 8,
+    "name": "Police, Adjective (Politist, adj.)",
+    "release": 1987,
+    "genre": "Comedy|Crime|Drama"
+  },
+  {
+    "id": 9,
+    "name": "Dinosaurus!",
+    "release": 1993,
+    "genre": "Adventure|Comedy"
+  },
+  {
+    "id": 10,
+    "name": "Over the Edge",
+    "release": 2000,
+    "genre": "Crime|Drama"
+  },
+  {
+    "id": 11,
+    "name": "Texas",
+    "release": 2000,
+    "genre": "Drama|Romance|Western"
+  },
+  {
+    "id": 12,
+    "name": "Lucky",
+    "release": 2002,
+    "genre": "Comedy|Crime|Romance"
+  },
+  {
+    "id": 13,
+    "name": "Bananas",
+    "release": 2006,
+    "genre": "Comedy|War"
+  },
+  {
+    "id": 14,
+    "name": "Night in Heaven, A",
+    "release": 2002,
+    "genre": "Drama|Romance"
+  },
+  {
+    "id": 15,
+    "name": "Queen to Play (Joueuse)",
+    "release": 1997,
+    "genre": "Drama"
+  },
+  {
+    "id": 16,
+    "name": "Circus",
+    "release": 2000,
+    "genre": "Comedy|Musical"
+  },
+  {
+    "id": 17,
+    "name": "Time Limit",
+    "release": 1995,
+    "genre": "Drama|Mystery|War"
+  },
+  {
+    "id": 18,
+    "name": "Major Payne",
+    "release": 2004,
+    "genre": "Comedy"
+  },
+  {
+    "id": 19,
+    "name": "Perfumed Nightmare",
+    "release": 2005,
+    "genre": "Comedy|Drama"
+  },
+  {
+    "id": 20,
+    "name": "Critters",
+    "release": 2011,
+    "genre": "Comedy|Sci-Fi"
+  },
+  {
+    "id": 21,
+    "name": "What's Up, Tiger Lily?",
+    "release": 1994,
+    "genre": "Adventure|Comedy|Crime|Thriller"
+  },
+  {
+    "id": 22,
+    "name": "Three Musketeers, The",
+    "release": 2004,
+    "genre": "Action|Adventure|Comedy|Romance"
+  },
+  {
+    "id": 23,
+    "name": "Bucktown",
+    "release": 1998,
+    "genre": "Crime|Drama"
+  },
+  {
+    "id": 24,
+    "name": "Caótica Ana",
+    "release": 2006,
+    "genre": "Comedy|Drama|Mystery|Romance"
+  },
+  {
+    "id": 25,
+    "name": "My Dinner with André",
+    "release": 2001,
+    "genre": "Drama"
+  }
+]
